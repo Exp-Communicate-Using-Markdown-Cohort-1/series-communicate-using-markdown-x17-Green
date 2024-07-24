@@ -10,3 +10,8 @@ This is a code block
 
 print("Welcome to GreenNet")
 ```
+
+##### Creating Tasks
+- [x] Learn communicate using Markdown
+- [ ] Outline my portfolio
+- [ ] Build a GitHub webpage
